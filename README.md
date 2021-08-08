@@ -4,6 +4,8 @@ chromedriver:由於Selenium呼叫chrome瀏覽器,因此需至官網下載(可依
 https://chromedriver.chromium.org/downloads(需查看自己目前使用的瀏覽器版本下載)
 
 
+
+
 使用Selenium操作網頁（自動化）
 
 -Project1:
